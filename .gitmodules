@@ -1,0 +1,3 @@
+[submodule "webpack_ts_starter"]
+	path = webpack_ts_starter
+	url = https://github.com/KrishTalaviya/Typescript-Practice.git

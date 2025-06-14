@@ -1,0 +1,17 @@
+{
+  "name": "03_budgettracker",
+  "version": "1.0.0",
+  "description": "A simple budget tracker web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "dev": "lite-server"
+  },
+  "type": "commonjs",
+  "keywords": ["budget", "tracker", "web app"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
