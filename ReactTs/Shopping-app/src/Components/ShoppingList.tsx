@@ -28,9 +28,7 @@ interface ShoppingList{
         <div>
           <ul>
             {items.map((item) => {
-                {
-                  console.log(item.id);
-                }
+                
               return (
                 <li key={item.id}>
                     

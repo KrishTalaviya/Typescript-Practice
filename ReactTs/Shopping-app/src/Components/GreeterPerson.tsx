@@ -10,7 +10,7 @@ interface Person{
 /* function GreeterPerson(props:Person){
     return <h1>{props.name} is {props.age} old</h1>
 } */
-    function GreeterPerson({name,age}: Person) {
+    function GreeterPerson({name,age}: Person):JSX.Element{
       return (
         <h1>
           {name} is {age} old
